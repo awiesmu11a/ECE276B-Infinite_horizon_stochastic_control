@@ -6,4 +6,4 @@
 ![Proportional Controller](./report/intro.png)
 
 ### CEC:
-![CEC control](.script/fig/animation_gamma_decrease.gif)
+![CEC control](./script/fig/animation_gamma_decrease.gif)
